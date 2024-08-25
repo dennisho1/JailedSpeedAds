@@ -183,5 +183,3 @@ __attribute__((constructor))
 static void initialize() {
     hookMethods();
 }
-
-%end
